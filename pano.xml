@@ -1,0 +1,755 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node28" appversion="7.1.11" hassounds="0" apprev="21010">
+  <panorama id="node28">
+    <input levelbiashidpi="1.000" overlap="1" levelbias="0.400" levelingpitch="0" leveltilesize="510" levelingroll="0" leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3205" width="3205">
+      <level height="3205" predecode="0" width="3205" preload="0"/>
+      <level height="1602" predecode="0" width="1602" preload="0"/>
+      <level height="801" predecode="0" width="801" preload="0"/>
+      <level height="400" predecode="1" width="400" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="112.485" fovmode="2">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata comment="" heading="112.485" streetviewlink="https://www.google.com/maps/@-24.2469059,-51.6735586,3a,75y,112.49h,90t/data=!3m4!1e1!3m2!1sCIABIhANU94YNJgsQfrCsuCSbVz3!2e10" copyright="MG TOUR 360 GRAUS" description="" info="" nodeid="node28" customnodeid="" datetime="" title="Supermercado Confiança" tags="3-Panoramicas" latitude="-24.24690587" longitude="-51.67355865" author="RIBEIRO" source=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label borderradius="1" border="1" textcolor="0x000000" textalpha="1" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" borderalpha="1" background="1" height="20" bordercolor="0x000000" enabled="1" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="3.8147e-08" distance="25.9558" url="{node1}" description="" target="" title="Supermercado Confiança" skinid="ht_node" pan="-25.45" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" type="crossdissolve" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="40" zoomout="0" delay="none" zoomin="0" enabled="1" zoomafterinfov="140"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" simulatemass="1" dblclickfullscreen="0" contextprojections="0" hideabout="0" speedwheel="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" contextfullscreen="1" rubberband="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node1">
+    <input levelbiashidpi="1.000" overlap="1" levelbias="0.400" levelingpitch="-1.84178" leveltilesize="510" levelingroll="-0.047819100000000003" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3215" width="3215">
+      <level height="3215" predecode="0" width="3215" preload="0"/>
+      <level height="1607" predecode="0" width="1607" preload="0"/>
+      <level height="803" predecode="0" width="803" preload="0"/>
+      <level height="401" predecode="1" width="401" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="118.799" fovmode="2">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata comment="" heading="118.799" streetviewlink="https://www.google.com/maps/@-24.2469813,-51.6733164,3a,75y,118.8h,90t/data=!3m4!1e1!3m2!1sCIABIhCp_nO9oqv4oaTMRTSElTGR!2e10" copyright="MG TOUR 360 GRAUS" description="" info="" nodeid="node1" customnodeid="" datetime="" title="Supermercado Confiança" tags="editadas" latitude="-24.24698134" longitude="-51.67331639" author="RIBEIRO" source=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label borderradius="1" border="1" textcolor="0x000000" textalpha="1" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" borderalpha="1" background="1" height="20" bordercolor="0x000000" enabled="1" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="1.19" distance="2.84425" url="{node2}" description="" target="-47.0/0.0/100.0" title="Supermercado Confiança" skinid="ht_node" pan="-46.39" id="Point01"/>
+      <hotspot tilt="-0.16" distance="25.9558" url="{node28}" description="" target="" title="Supermercado Confiança" skinid="ht_node" pan="-190.97" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" type="crossdissolve" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="40" zoomout="0" delay="none" zoomin="0" enabled="1" zoomafterinfov="140"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" simulatemass="1" dblclickfullscreen="0" contextprojections="0" hideabout="0" speedwheel="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" contextfullscreen="1" rubberband="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelbiashidpi="1.000" overlap="1" levelbias="0.400" levelingpitch="0" leveltilesize="510" levelingroll="0" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3000" width="3000">
+      <level height="3000" predecode="0" width="3000" preload="0"/>
+      <level height="1500" predecode="0" width="1500" preload="0"/>
+      <level height="750" predecode="0" width="750" preload="0"/>
+      <level height="375" predecode="1" width="375" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="113.212" fovmode="2">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata comment="" heading="113.212" streetviewlink="https://www.google.com/maps/@-24.2470008,-51.6732982,3a,75y,113.21h,90t/data=!3m4!1e1!3m2!1sCIABIhC3RWVEDGunOlaAYiCVr26z!2e10" copyright="MG TOUR 360 GRAUS" description="" info="" nodeid="node2" customnodeid="" datetime="" title="Supermercado Confiança" tags="editadas" latitude="-24.24700079" longitude="-51.67329817" author="RIBEIRO" source=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label borderradius="1" border="1" textcolor="0x000000" textalpha="1" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" borderalpha="1" background="1" height="20" bordercolor="0x000000" enabled="1" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-0.53" distance="7.08518" url="{node3}" description="" target="" title="Supermercado Confiança" skinid="ht_node" pan="-14.39" id="Point01"/>
+      <hotspot tilt="-0.07" distance="2.84425" url="{node1}" description="" target="157.0/0.0/108.2" title="Supermercado Confiança" skinid="ht_node" pan="-223.75" id="Point02"/>
+      <hotspot tilt="0" distance="2.1735" url="{node7}" description="" target="$fwd" title="Supermercado Confiança" skinid="ht_node" pan="104.871" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" type="crossdissolve" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="40" zoomout="0" delay="none" zoomin="0" enabled="1" zoomafterinfov="140"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" simulatemass="1" dblclickfullscreen="0" contextprojections="0" hideabout="0" speedwheel="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" contextfullscreen="1" rubberband="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelbiashidpi="1.000" overlap="1" levelbias="0.400" levelingpitch="0" leveltilesize="510" levelingroll="0" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3000" width="3000">
+      <level height="3000" predecode="0" width="3000" preload="0"/>
+      <level height="1500" predecode="0" width="1500" preload="0"/>
+      <level height="750" predecode="0" width="750" preload="0"/>
+      <level height="375" predecode="1" width="375" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="107.728" fovmode="2">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata comment="" heading="107.728" streetviewlink="https://www.google.com/maps/@-24.247017,-51.6732306,3a,75y,107.73h,90t/data=!3m4!1e1!3m2!1sCIABIhA1xROS8vDx1v4vRcrBgF1V!2e10" copyright="MG TOUR 360 GRAUS" description="" info="" nodeid="node3" customnodeid="" datetime="" title="Supermercado Confiança" tags="editadas" latitude="-24.24701698" longitude="-51.67323058" author="RIBEIRO" source=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label borderradius="1" border="1" textcolor="0x000000" textalpha="1" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" borderalpha="1" background="1" height="20" bordercolor="0x000000" enabled="1" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="0" distance="7.20256" url="{node4}" description="" target="" title="Supermercado Confiança" skinid="ht_node" pan="-371.47" id="Point01"/>
+      <hotspot tilt="-1.06" distance="7.08518" url="{node2}" description="" target="-179.0/0.0/100.0" title="Supermercado Confiança" skinid="ht_node" pan="-193.13" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" type="crossdissolve" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="40" zoomout="0" delay="none" zoomin="0" enabled="1" zoomafterinfov="140"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" simulatemass="1" dblclickfullscreen="0" contextprojections="0" hideabout="0" speedwheel="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" contextfullscreen="1" rubberband="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelbiashidpi="1.000" overlap="1" levelbias="0.400" levelingpitch="0" leveltilesize="510" levelingroll="0" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3000" width="3000">
+      <level height="3000" predecode="0" width="3000" preload="0"/>
+      <level height="1500" predecode="0" width="1500" preload="0"/>
+      <level height="750" predecode="0" width="750" preload="0"/>
+      <level height="375" predecode="1" width="375" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="109.188" fovmode="2">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata comment="" heading="109.188" streetviewlink="https://www.google.com/maps/@-24.247034,-51.6731621,3a,75y,109.19h,90t/data=!3m4!1e1!3m2!1sCIABIhACAkLLIdQ0IFhJElJqzfJ4!2e10" copyright="MG TOUR 360 GRAUS" description="" info="" nodeid="node4" customnodeid="" datetime="" title="Supermercado Confiança" tags="editadas" latitude="-24.24703405" longitude="-51.67316205" author="RIBEIRO" source=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label borderradius="1" border="1" textcolor="0x000000" textalpha="1" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" borderalpha="1" background="1" height="20" bordercolor="0x000000" enabled="1" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-0.13" distance="2.89421" url="{node23}" description="" target="" title="Supermercado Confiança" skinid="ht_node" pan="-371.6" id="Point01"/>
+      <hotspot tilt="-1.64" distance="2.67092" url="{node5}" description="" target="89.0/0.0/100.0" title="Supermercado Confiança" skinid="ht_node" pan="-282.67" id="Point02"/>
+      <hotspot tilt="-0.93" distance="7.20256" url="{node3}" description="" target="179.0/0.0/100.0" title="Supermercado Confiança" skinid="ht_node" pan="-192.27" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" type="crossdissolve" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="40" zoomout="0" delay="none" zoomin="0" enabled="1" zoomafterinfov="140"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" simulatemass="1" dblclickfullscreen="0" contextprojections="0" hideabout="0" speedwheel="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" contextfullscreen="1" rubberband="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelbiashidpi="1.000" overlap="1" levelbias="0.400" levelingpitch="0" leveltilesize="510" levelingroll="0" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3000" width="3000">
+      <level height="3000" predecode="0" width="3000" preload="0"/>
+      <level height="1500" predecode="0" width="1500" preload="0"/>
+      <level height="750" predecode="0" width="750" preload="0"/>
+      <level height="375" predecode="1" width="375" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="110.087" fovmode="2">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata comment="" heading="110.087" streetviewlink="https://www.google.com/maps/@-24.247011,-51.6731548,3a,75y,110.09h,90t/data=!3m4!1e1!3m2!1sCIABIhA8NUHKH4uv_gidB89zLD9v!2e10" copyright="MG TOUR 360 GRAUS" description="" info="" nodeid="node5" customnodeid="" datetime="" title="Supermercado Confiança" tags="editadas" latitude="-24.24701096" longitude="-51.67315479" author="RIBEIRO" source=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label borderradius="1" border="1" textcolor="0x000000" textalpha="1" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" borderalpha="1" background="1" height="20" bordercolor="0x000000" enabled="1" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-2.65" distance="7.10648" url="{node6}" description="" target="180.0/0.0/108.2" title="Supermercado Confiança" skinid="ht_node" pan="-191.48" id="Point01"/>
+      <hotspot tilt="-3.84" distance="2.67092" url="{node4}" description="" target="-91.0/0.0/100.0" title="Supermercado Confiança" skinid="ht_node" pan="-100.94" id="Point02"/>
+      <hotspot tilt="0" distance="2.31535" url="{node10}" description="" target="$fwd" title="Supermercado Confiança" skinid="ht_node" pan="99.234" id="Point03"/>
+      <hotspot tilt="0" distance="4.72496" url="{node24}" description="" target="$fwd" title="Supermercado Confiança" skinid="ht_node" pan="9.97574" id="Point04"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" type="crossdissolve" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="40" zoomout="0" delay="none" zoomin="0" enabled="1" zoomafterinfov="140"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" simulatemass="1" dblclickfullscreen="0" contextprojections="0" hideabout="0" speedwheel="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" contextfullscreen="1" rubberband="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelbiashidpi="1.000" overlap="1" levelbias="0.400" levelingpitch="0" leveltilesize="510" levelingroll="0" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3000" width="3000">
+      <level height="3000" predecode="0" width="3000" preload="0"/>
+      <level height="1500" predecode="0" width="1500" preload="0"/>
+      <level height="750" predecode="0" width="750" preload="0"/>
+      <level height="375" predecode="1" width="375" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="102.017" fovmode="2">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata comment="" heading="102.017" streetviewlink="https://www.google.com/maps/@-24.2469972,-51.6732232,3a,75y,102.02h,90t/data=!3m4!1e1!3m2!1sCIABIhDPOrw0CIRhNJtEpq5yL7Gv!2e10" copyright="MG TOUR 360 GRAUS" description="" info="" nodeid="node6" customnodeid="" datetime="" title="Supermercado Confiança" tags="editadas" latitude="-24.24699716" longitude="-51.67322323" author="RIBEIRO" source=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label borderradius="1" border="1" textcolor="0x000000" textalpha="1" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" borderalpha="1" background="1" height="20" bordercolor="0x000000" enabled="1" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="0.15" distance="7.48912" url="{node7}" description="" target="-178.0/0.0/126.6" title="Supermercado Confiança" skinid="ht_node" pan="-192.92" id="Point01"/>
+      <hotspot tilt="0.66" distance="7.10648" url="{node5}" description="" target="" title="Supermercado Confiança" skinid="ht_node" pan="-371.6" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" type="crossdissolve" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="40" zoomout="0" delay="none" zoomin="0" enabled="1" zoomafterinfov="140"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" simulatemass="1" dblclickfullscreen="0" contextprojections="0" hideabout="0" speedwheel="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" contextfullscreen="1" rubberband="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelbiashidpi="1.000" overlap="1" levelbias="0.400" levelingpitch="0" leveltilesize="510" levelingroll="0" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3000" width="3000">
+      <level height="3000" predecode="0" width="3000" preload="0"/>
+      <level height="1500" predecode="0" width="1500" preload="0"/>
+      <level height="750" predecode="0" width="750" preload="0"/>
+      <level height="375" predecode="1" width="375" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="107.868" fovmode="2">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata comment="" heading="107.868" streetviewlink="https://www.google.com/maps/@-24.2469814,-51.6732951,3a,75y,107.87h,90t/data=!3m4!1e1!3m2!1sCIABIhBk5wFCKftPlLn499E-RtUP!2e10" copyright="MG TOUR 360 GRAUS" description="" info="" nodeid="node7" customnodeid="" datetime="" title="Supermercado Confiança" tags="editadas" latitude="-24.24698145" longitude="-51.67329506" author="RIBEIRO" source=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label borderradius="1" border="1" textcolor="0x000000" textalpha="1" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" borderalpha="1" background="1" height="20" bordercolor="0x000000" enabled="1" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-0.27" distance="2.01307" url="{node8}" description="" target="84.0/0.0/100.0" title="Supermercado Confiança" skinid="ht_node" pan="-281.12" id="Point01"/>
+      <hotspot tilt="0.53" distance="7.48912" url="{node6}" description="" target="0.0/0.0/100.0" title="Supermercado Confiança" skinid="ht_node" pan="-371.18" id="Point02"/>
+      <hotspot tilt="0" distance="2.1735" url="{node2}" description="" target="$fwd" title="Supermercado Confiança" skinid="ht_node" pan="279.527" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" type="crossdissolve" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="40" zoomout="0" delay="none" zoomin="0" enabled="1" zoomafterinfov="140"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" simulatemass="1" dblclickfullscreen="0" contextprojections="0" hideabout="0" speedwheel="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" contextfullscreen="1" rubberband="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelbiashidpi="1.000" overlap="1" levelbias="0.400" levelingpitch="0" leveltilesize="510" levelingroll="0" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3000" width="3000">
+      <level height="3000" predecode="0" width="3000" preload="0"/>
+      <level height="1500" predecode="0" width="1500" preload="0"/>
+      <level height="750" predecode="0" width="750" preload="0"/>
+      <level height="375" predecode="1" width="375" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="106.062" fovmode="2">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata comment="" heading="106.062" streetviewlink="https://www.google.com/maps/@-24.2469639,-51.6732901,3a,75y,106.06h,90t/data=!3m4!1e1!3m2!1sCIABIhCkhoLIZH1CcpN21ADg2mX2!2e10" copyright="MG TOUR 360 GRAUS" description="" info="" nodeid="node8" customnodeid="" datetime="" title="Supermercado Confiança" tags="editadas" latitude="-24.24696392" longitude="-51.67329010" author="RIBEIRO" source=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label borderradius="1" border="1" textcolor="0x000000" textalpha="1" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" borderalpha="1" background="1" height="20" bordercolor="0x000000" enabled="1" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="0" distance="7.41727" url="{node9}" description="" target="" title="Supermercado Confiança" skinid="ht_node" pan="-371.78" id="Point01"/>
+      <hotspot tilt="-0.53" distance="2.01307" url="{node7}" description="" target="-90.0/0.0/100.0" title="Supermercado Confiança" skinid="ht_node" pan="-100.78" id="Point02"/>
+      <hotspot tilt="0" distance="2.26276" url="{node13}" description="" target="$fwd" title="Supermercado Confiança" skinid="ht_node" pan="99.1135" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" type="crossdissolve" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="40" zoomout="0" delay="none" zoomin="0" enabled="1" zoomafterinfov="140"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" simulatemass="1" dblclickfullscreen="0" contextprojections="0" hideabout="0" speedwheel="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" contextfullscreen="1" rubberband="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelbiashidpi="1.000" overlap="1" levelbias="0.400" levelingpitch="0" leveltilesize="510" levelingroll="0" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3000" width="3000">
+      <level height="3000" predecode="0" width="3000" preload="0"/>
+      <level height="1500" predecode="0" width="1500" preload="0"/>
+      <level height="750" predecode="0" width="750" preload="0"/>
+      <level height="375" predecode="1" width="375" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="101.978" fovmode="2">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata comment="" heading="101.978" streetviewlink="https://www.google.com/maps/@-24.246978,-51.6732186,3a,75y,101.98h,90t/data=!3m4!1e1!3m2!1sCIABIhAbCSwunwy98w1RENEYu4-6!2e10" copyright="MG TOUR 360 GRAUS" description="" info="" nodeid="node9" customnodeid="" datetime="" title="Supermercado Confiança" tags="editadas" latitude="-24.24697796" longitude="-51.67321858" author="RIBEIRO" source=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label borderradius="1" border="1" textcolor="0x000000" textalpha="1" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" borderalpha="1" background="1" height="20" bordercolor="0x000000" enabled="1" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-0.27" distance="7.04299" url="{node10}" description="" target="" title="Supermercado Confiança" skinid="ht_node" pan="-371.34" id="Point01"/>
+      <hotspot tilt="-1.54" distance="7.41727" url="{node8}" description="" target="-176.0/0.0/100.0" title="Supermercado Confiança" skinid="ht_node" pan="-192.54" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" type="crossdissolve" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="40" zoomout="0" delay="none" zoomin="0" enabled="1" zoomafterinfov="140"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" simulatemass="1" dblclickfullscreen="0" contextprojections="0" hideabout="0" speedwheel="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" contextfullscreen="1" rubberband="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node10">
+    <input levelbiashidpi="1.000" overlap="1" levelbias="0.400" levelingpitch="0" leveltilesize="510" levelingroll="0" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3000" width="3000">
+      <level height="3000" predecode="0" width="3000" preload="0"/>
+      <level height="1500" predecode="0" width="1500" preload="0"/>
+      <level height="750" predecode="0" width="750" preload="0"/>
+      <level height="375" predecode="1" width="375" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="101.668" fovmode="2">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata comment="" heading="101.668" streetviewlink="https://www.google.com/maps/@-24.2469905,-51.6731505,3a,75y,101.67h,90t/data=!3m4!1e1!3m2!1sCIABIhCi-U0_s5KB6CWoDENbalat!2e10" copyright="MG TOUR 360 GRAUS" description="" info="" nodeid="node10" customnodeid="" datetime="" title="Supermercado Confiança" tags="editadas" latitude="-24.24699051" longitude="-51.67315049" author="RIBEIRO" source=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label borderradius="1" border="1" textcolor="0x000000" textalpha="1" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" borderalpha="1" background="1" height="20" bordercolor="0x000000" enabled="1" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-1.83" distance="2.09712" url="{node11}" description="" target="90.0/0.0/100.0" title="Supermercado Confiança" skinid="ht_node" pan="-283.32" id="Point01"/>
+      <hotspot tilt="-0.93" distance="7.04299" url="{node9}" description="" target="-179.0/0.0/85.5" title="Supermercado Confiança" skinid="ht_node" pan="-192.37" id="Point02"/>
+      <hotspot tilt="0" distance="2.31535" url="{node5}" description="" target="$fwd" title="Supermercado Confiança" skinid="ht_node" pan="270.815" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" type="crossdissolve" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="40" zoomout="0" delay="none" zoomin="0" enabled="1" zoomafterinfov="140"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" simulatemass="1" dblclickfullscreen="0" contextprojections="0" hideabout="0" speedwheel="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" contextfullscreen="1" rubberband="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node11">
+    <input levelbiashidpi="1.000" overlap="1" levelbias="0.400" levelingpitch="0" leveltilesize="510" levelingroll="0" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3000" width="3000">
+      <level height="3000" predecode="0" width="3000" preload="0"/>
+      <level height="1500" predecode="0" width="1500" preload="0"/>
+      <level height="750" predecode="0" width="750" preload="0"/>
+      <level height="375" predecode="1" width="375" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-77.8469" fovmode="2">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata comment="" heading="-77.8469" streetviewlink="https://www.google.com/maps/@-24.2469721,-51.6731459,3a,75y,282.15h,90t/data=!3m4!1e1!3m2!1sCIABIhDIYJ_zcGXo7UQd5748fvc5!2e10" copyright="MG TOUR 360 GRAUS" description="" info="" nodeid="node11" customnodeid="" datetime="" title="Supermercado Confiança" tags="editadas" latitude="-24.24697211" longitude="-51.67314595" author="RIBEIRO" source=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label borderradius="1" border="1" textcolor="0x000000" textalpha="1" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" borderalpha="1" background="1" height="20" bordercolor="0x000000" enabled="1" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-1.06" distance="7.00651" url="{node12}" description="" target="179.0/0.0/100.0" title="Supermercado Confiança" skinid="ht_node" pan="-192.68" id="Point01"/>
+      <hotspot tilt="-2.52" distance="2.09712" url="{node10}" description="" target="-92.0/0.0/100.0" title="Supermercado Confiança" skinid="ht_node" pan="-100.97" id="Point02"/>
+      <hotspot tilt="0" distance="1.88495" url="{node16}" description="" target="$fwd" title="Supermercado Confiança" skinid="ht_node" pan="-99.367" id="Point03"/>
+      <hotspot tilt="0" distance="6.44902" url="{node26}" description="" target="$fwd" title="Supermercado Confiança" skinid="ht_node" pan="-176.225" id="Point04"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" type="crossdissolve" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="40" zoomout="0" delay="none" zoomin="0" enabled="1" zoomafterinfov="140"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" simulatemass="1" dblclickfullscreen="0" contextprojections="0" hideabout="0" speedwheel="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" contextfullscreen="1" rubberband="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node12">
+    <input levelbiashidpi="1.000" overlap="1" levelbias="0.400" levelingpitch="0" leveltilesize="510" levelingroll="0" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3000" width="3000">
+      <level height="3000" predecode="0" width="3000" preload="0"/>
+      <level height="1500" predecode="0" width="1500" preload="0"/>
+      <level height="750" predecode="0" width="750" preload="0"/>
+      <level height="375" predecode="1" width="375" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="102.724" fovmode="2">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata comment="" heading="102.724" streetviewlink="https://www.google.com/maps/@-24.246958,-51.6732133,3a,75y,102.72h,90t/data=!3m4!1e1!3m2!1sCIABIhAEnjeV8eaNeqG2aY-D3cOM!2e10" copyright="MG TOUR 360 GRAUS" description="" info="" nodeid="node12" customnodeid="" datetime="" title="Supermercado Confiança" tags="editadas" latitude="-24.24695799" longitude="-51.67321330" author="RIBEIRO" source=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label borderradius="1" border="1" textcolor="0x000000" textalpha="1" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" borderalpha="1" background="1" height="20" bordercolor="0x000000" enabled="1" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-2.91" distance="7.67842" url="{node13}" description="" target="-178.0/0.0/108.2" title="Supermercado Confiança" skinid="ht_node" pan="-192.47" id="Point01"/>
+      <hotspot tilt="0.53" distance="7.00651" url="{node11}" description="" target="" title="Supermercado Confiança" skinid="ht_node" pan="-371.87" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" type="crossdissolve" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="40" zoomout="0" delay="none" zoomin="0" enabled="1" zoomafterinfov="140"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" simulatemass="1" dblclickfullscreen="0" contextprojections="0" hideabout="0" speedwheel="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" contextfullscreen="1" rubberband="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node13">
+    <input levelbiashidpi="1.000" overlap="1" levelbias="0.400" levelingpitch="0" leveltilesize="510" levelingroll="0" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3000" width="3000">
+      <level height="3000" predecode="0" width="3000" preload="0"/>
+      <level height="1500" predecode="0" width="1500" preload="0"/>
+      <level height="750" predecode="0" width="750" preload="0"/>
+      <level height="375" predecode="1" width="375" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="105.29" fovmode="2">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata comment="" heading="105.29" streetviewlink="https://www.google.com/maps/@-24.2469437,-51.6732874,3a,75y,105.29h,90t/data=!3m4!1e1!3m2!1sCIABIhAvB-yB-gJ7FxY8EemEninh!2e10" copyright="MG TOUR 360 GRAUS" description="" info="" nodeid="node13" customnodeid="" datetime="" title="Supermercado Confiança" tags="editadas" latitude="-24.24694372" longitude="-51.67328740" author="RIBEIRO" source=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label borderradius="1" border="1" textcolor="0x000000" textalpha="1" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" borderalpha="1" background="1" height="20" bordercolor="0x000000" enabled="1" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-1.06" distance="1.5061" url="{node14}" description="" target="91.0/0.0/108.5" title="Supermercado Confiança" skinid="ht_node" pan="-282.7" id="Point01"/>
+      <hotspot tilt="0.93" distance="7.67842" url="{node12}" description="" target="0.0/0.0/100.0" title="Supermercado Confiança" skinid="ht_node" pan="-12.27" id="Point02"/>
+      <hotspot tilt="0" distance="2.26276" url="{node8}" description="" target="$fwd" title="Supermercado Confiança" skinid="ht_node" pan="278.342" id="Point03"/>
+      <hotspot tilt="0" distance="2.47047" url="{node22}" description="" target="$fwd" title="Supermercado Confiança" skinid="ht_node" pan="183.815" id="Point04"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" type="crossdissolve" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="40" zoomout="0" delay="none" zoomin="0" enabled="1" zoomafterinfov="140"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" simulatemass="1" dblclickfullscreen="0" contextprojections="0" hideabout="0" speedwheel="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" contextfullscreen="1" rubberband="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node14">
+    <input levelbiashidpi="1.000" overlap="1" levelbias="0.400" levelingpitch="0" leveltilesize="510" levelingroll="0" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3000" width="3000">
+      <level height="3000" predecode="0" width="3000" preload="0"/>
+      <level height="1500" predecode="0" width="1500" preload="0"/>
+      <level height="750" predecode="0" width="750" preload="0"/>
+      <level height="375" predecode="1" width="375" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="102.957" fovmode="2">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata comment="" heading="102.957" streetviewlink="https://www.google.com/maps/@-24.2469305,-51.6732841,3a,75y,102.96h,90t/data=!3m4!1e1!3m2!1sCIABIhCTfnqK7vP362qXcD0kD9En!2e10" copyright="MG TOUR 360 GRAUS" description="" info="" nodeid="node14" customnodeid="" datetime="" title="Supermercado Confiança" tags="editadas" latitude="-24.24693052" longitude="-51.67328407" author="RIBEIRO" source=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label borderradius="1" border="1" textcolor="0x000000" textalpha="1" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" borderalpha="1" background="1" height="20" bordercolor="0x000000" enabled="1" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="0.93" distance="7.66967" url="{node15}" description="" target="" title="Supermercado Confiança" skinid="ht_node" pan="-371.95" id="Point01"/>
+      <hotspot tilt="-1.72" distance="1.5061" url="{node13}" description="" target="-90.0/0.0/100.0" title="Supermercado Confiança" skinid="ht_node" pan="-101.23" id="Point02"/>
+      <hotspot tilt="0" distance="1.73778" url="{node19}" description="" target="$fwd" title="Supermercado Confiança" skinid="ht_node" pan="89.0486" id="Point03"/>
+      <hotspot tilt="0" distance="2.58909" url="{node21}" description="" target="$fwd" title="Supermercado Confiança" skinid="ht_node" pan="178.787" id="Point04"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" type="crossdissolve" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="40" zoomout="0" delay="none" zoomin="0" enabled="1" zoomafterinfov="140"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" simulatemass="1" dblclickfullscreen="0" contextprojections="0" hideabout="0" speedwheel="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" contextfullscreen="1" rubberband="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node15">
+    <input levelbiashidpi="1.000" overlap="1" levelbias="0.400" levelingpitch="0" leveltilesize="510" levelingroll="0" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3000" width="3000">
+      <level height="3000" predecode="0" width="3000" preload="0"/>
+      <level height="1500" predecode="0" width="1500" preload="0"/>
+      <level height="750" predecode="0" width="750" preload="0"/>
+      <level height="375" predecode="1" width="375" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="100.024" fovmode="2">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata comment="" heading="100.024" streetviewlink="https://www.google.com/maps/@-24.2469436,-51.6732098,3a,75y,100.02h,90t/data=!3m4!1e1!3m2!1sCIABIhBE5mcnZlRVXN8f3xhdLmNY!2e10" copyright="MG TOUR 360 GRAUS" description="" info="" nodeid="node15" customnodeid="" datetime="" title="Supermercado Confiança" tags="editadas" latitude="-24.24694358" longitude="-51.67320979" author="RIBEIRO" source=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label borderradius="1" border="1" textcolor="0x000000" textalpha="1" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" borderalpha="1" background="1" height="20" bordercolor="0x000000" enabled="1" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="0.27" distance="7.30307" url="{node16}" description="" target="" title="Supermercado Confiança" skinid="ht_node" pan="-371.87" id="Point01"/>
+      <hotspot tilt="-2.65" distance="7.66967" url="{node14}" description="" target="-179.0/0.0/100.0" title="Supermercado Confiança" skinid="ht_node" pan="-191.87" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" type="crossdissolve" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="40" zoomout="0" delay="none" zoomin="0" enabled="1" zoomafterinfov="140"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" simulatemass="1" dblclickfullscreen="0" contextprojections="0" hideabout="0" speedwheel="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" contextfullscreen="1" rubberband="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node16">
+    <input levelbiashidpi="1.000" overlap="1" levelbias="0.400" levelingpitch="0" leveltilesize="510" levelingroll="0" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3000" width="3000">
+      <level height="3000" predecode="0" width="3000" preload="0"/>
+      <level height="1500" predecode="0" width="1500" preload="0"/>
+      <level height="750" predecode="0" width="750" preload="0"/>
+      <level height="375" predecode="1" width="375" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="102.826" fovmode="2">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata comment="" heading="102.826" streetviewlink="https://www.google.com/maps/@-24.2469563,-51.6731391,3a,75y,102.83h,90t/data=!3m4!1e1!3m2!1sCIABIhDeYK2PTDXOq3Etoyzw0DpK!2e10" copyright="MG TOUR 360 GRAUS" description="" info="" nodeid="node16" customnodeid="" datetime="" title="Supermercado Confiança" tags="editadas" latitude="-24.24695634" longitude="-51.67313913" author="RIBEIRO" source=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label borderradius="1" border="1" textcolor="0x000000" textalpha="1" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" borderalpha="1" background="1" height="20" bordercolor="0x000000" enabled="1" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-3.44" distance="1.63383" url="{node17}" description="" target="86.0/0.0/92.4" title="Supermercado Confiança" skinid="ht_node" pan="-276.79" id="Point01"/>
+      <hotspot tilt="-2.65" distance="7.30307" url="{node15}" description="" target="180.0/0.0/100.0" title="Supermercado Confiança" skinid="ht_node" pan="-190.89" id="Point02"/>
+      <hotspot tilt="0" distance="1.88495" url="{node11}" description="" target="$fwd" title="Supermercado Confiança" skinid="ht_node" pan="261.306" id="Point03"/>
+      <hotspot tilt="0" distance="6.13121" url="{node27}" description="" target="$fwd" title="Supermercado Confiança" skinid="ht_node" pan="4.26306" id="Point04"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" type="crossdissolve" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="40" zoomout="0" delay="none" zoomin="0" enabled="1" zoomafterinfov="140"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" simulatemass="1" dblclickfullscreen="0" contextprojections="0" hideabout="0" speedwheel="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" contextfullscreen="1" rubberband="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node17">
+    <input levelbiashidpi="1.000" overlap="1" levelbias="0.400" levelingpitch="0" leveltilesize="510" levelingroll="0" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3000" width="3000">
+      <level height="3000" predecode="0" width="3000" preload="0"/>
+      <level height="1500" predecode="0" width="1500" preload="0"/>
+      <level height="750" predecode="0" width="750" preload="0"/>
+      <level height="375" predecode="1" width="375" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="102.441" fovmode="2">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata comment="" heading="102.441" streetviewlink="https://www.google.com/maps/@-24.2469419,-51.6731361,3a,75y,102.44h,90t/data=!3m4!1e1!3m2!1sCIABIhCgg5f1WOSfAr8EX8ttUpXr!2e10" copyright="MG TOUR 360 GRAUS" description="" info="" nodeid="node17" customnodeid="" datetime="" title="Supermercado Confiança" tags="editadas" latitude="-24.24694190" longitude="-51.67313615" author="RIBEIRO" source=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label borderradius="1" border="1" textcolor="0x000000" textalpha="1" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" borderalpha="1" background="1" height="20" bordercolor="0x000000" enabled="1" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-0.35" distance="7.45424" url="{node18}" description="" target="-177.0/0.0/100.0" title="Supermercado Confiança" skinid="ht_node" pan="-193.16" id="Point01"/>
+      <hotspot tilt="-1.98" distance="1.63383" url="{node16}" description="" target="-89.0/0.0/100.0" title="Supermercado Confiança" skinid="ht_node" pan="-99.88" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" type="crossdissolve" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="40" zoomout="0" delay="none" zoomin="0" enabled="1" zoomafterinfov="140"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" simulatemass="1" dblclickfullscreen="0" contextprojections="0" hideabout="0" speedwheel="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" contextfullscreen="1" rubberband="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node18">
+    <input levelbiashidpi="1.000" overlap="1" levelbias="0.400" levelingpitch="0" leveltilesize="510" levelingroll="0" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3000" width="3000">
+      <level height="3000" predecode="0" width="3000" preload="0"/>
+      <level height="1500" predecode="0" width="1500" preload="0"/>
+      <level height="750" predecode="0" width="750" preload="0"/>
+      <level height="375" predecode="1" width="375" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="108.402" fovmode="2">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata comment="" heading="108.402" streetviewlink="https://www.google.com/maps/@-24.2469298,-51.6732085,3a,75y,108.4h,90t/data=!3m4!1e1!3m2!1sCIABIhCY4PgCKAZeufcVMqQpWBpd!2e10" copyright="MG TOUR 360 GRAUS" description="" info="" nodeid="node18" customnodeid="" datetime="" title="Supermercado Confiança" tags="editadas" latitude="-24.24692982" longitude="-51.67320847" author="RIBEIRO" source=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label borderradius="1" border="1" textcolor="0x000000" textalpha="1" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" borderalpha="1" background="1" height="20" bordercolor="0x000000" enabled="1" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="0.27" distance="7.42352" url="{node19}" description="" target="180.0/0.0/108.2" title="Supermercado Confiança" skinid="ht_node" pan="-189.13" id="Point01"/>
+      <hotspot tilt="0.01" distance="7.45424" url="{node17}" description="" target="0.0/0.0/100.0" title="Supermercado Confiança" skinid="ht_node" pan="-370.94" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" type="crossdissolve" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="40" zoomout="0" delay="none" zoomin="0" enabled="1" zoomafterinfov="140"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" simulatemass="1" dblclickfullscreen="0" contextprojections="0" hideabout="0" speedwheel="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" contextfullscreen="1" rubberband="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node19">
+    <input levelbiashidpi="1.000" overlap="1" levelbias="0.400" levelingpitch="0" leveltilesize="510" levelingroll="0" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3000" width="3000">
+      <level height="3000" predecode="0" width="3000" preload="0"/>
+      <level height="1500" predecode="0" width="1500" preload="0"/>
+      <level height="750" predecode="0" width="750" preload="0"/>
+      <level height="375" predecode="1" width="375" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="102.009" fovmode="2">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata comment="" heading="102.009" streetviewlink="https://www.google.com/maps/@-24.2469153,-51.67328,3a,75y,102.01h,90t/data=!3m4!1e1!3m2!1sCIABIhDkENN7NpIpnU0ExppIiKZ9!2e10" copyright="MG TOUR 360 GRAUS" description="" info="" nodeid="node19" customnodeid="" datetime="" title="Supermercado Confiança" tags="editadas" latitude="-24.24691535" longitude="-51.67327995" author="RIBEIRO" source=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label borderradius="1" border="1" textcolor="0x000000" textalpha="1" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" borderalpha="1" background="1" height="20" bordercolor="0x000000" enabled="1" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-2.76" distance="2.48544" url="{node20}" description="" target="178.0/0.0/108.2" title="Supermercado Confiança" skinid="ht_node" pan="-191.54" id="Point01"/>
+      <hotspot tilt="0" distance="7.42352" url="{node18}" description="" target="-15.0/0.0/100.0" title="Supermercado Confiança" skinid="ht_node" pan="-12.27" id="Point02"/>
+      <hotspot tilt="0" distance="1.73778" url="{node14}" description="" target="$fwd" title="Supermercado Confiança" skinid="ht_node" pan="268.101" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" type="crossdissolve" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="40" zoomout="0" delay="none" zoomin="0" enabled="1" zoomafterinfov="140"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" simulatemass="1" dblclickfullscreen="0" contextprojections="0" hideabout="0" speedwheel="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" contextfullscreen="1" rubberband="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node20">
+    <input levelbiashidpi="1.000" overlap="1" levelbias="0.400" levelingpitch="0" leveltilesize="510" levelingroll="0" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3213" width="3213">
+      <level height="3213" predecode="0" width="3213" preload="0"/>
+      <level height="1606" predecode="0" width="1606" preload="0"/>
+      <level height="803" predecode="0" width="803" preload="0"/>
+      <level height="401" predecode="1" width="401" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="102.871" fovmode="2">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata comment="" heading="102.871" streetviewlink="https://www.google.com/maps/@-24.2469097,-51.6733037,3a,75y,102.87h,90t/data=!3m4!1e1!3m2!1sCIABIhDzdQNFcqn-obvGLBmH_1jr!2e10" copyright="MG TOUR 360 GRAUS" description="" info="" nodeid="node20" customnodeid="" datetime="" title="Supermercado Confiança" tags="editadas" latitude="-24.24690974" longitude="-51.67330368" author="RIBEIRO" source=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label borderradius="1" border="1" textcolor="0x000000" textalpha="1" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" borderalpha="1" background="1" height="20" bordercolor="0x000000" enabled="1" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="0.43" distance="1.75623" url="{node21}" description="" target="-144.0/0.0/137.3" title="Supermercado Confiança" skinid="ht_node" pan="-139.93" id="Point01"/>
+      <hotspot tilt="-0.66" distance="2.48544" url="{node19}" description="" target="0.0/0.0/100.0" title="Supermercado Confiança" skinid="ht_node" pan="-371.58" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" type="crossdissolve" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="40" zoomout="0" delay="none" zoomin="0" enabled="1" zoomafterinfov="140"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" simulatemass="1" dblclickfullscreen="0" contextprojections="0" hideabout="0" speedwheel="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" contextfullscreen="1" rubberband="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node21">
+    <input levelbiashidpi="1.000" overlap="1" levelbias="0.400" levelingpitch="0" leveltilesize="510" levelingroll="0" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3000" width="3000">
+      <level height="3000" predecode="0" width="3000" preload="0"/>
+      <level height="1500" predecode="0" width="1500" preload="0"/>
+      <level height="750" predecode="0" width="750" preload="0"/>
+      <level height="375" predecode="1" width="375" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="106.251" fovmode="2">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata comment="" heading="106.251" streetviewlink="https://www.google.com/maps/@-24.2469248,-51.6733088,3a,75y,106.25h,90t/data=!3m4!1e1!3m2!1sCIABIhDvJE_rVpe2mKR5rLDFuRnk!2e10" copyright="MG TOUR 360 GRAUS" description="" info="" nodeid="node21" customnodeid="" datetime="" title="Supermercado Confiança" tags="editadas" latitude="-24.24692482" longitude="-51.67330883" author="RIBEIRO" source=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label borderradius="1" border="1" textcolor="0x000000" textalpha="1" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" borderalpha="1" background="1" height="20" bordercolor="0x000000" enabled="1" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-2.03" distance="1.62915" url="{node22}" description="" target="-97.0/0.0/100.0" title="Supermercado Confiança" skinid="ht_node" pan="-109.94" id="Point01"/>
+      <hotspot tilt="0.39" distance="1.75623" url="{node20}" description="" target="91.0/0.0/100.0" title="Supermercado Confiança" skinid="ht_node" pan="-270.93" id="Point02"/>
+      <hotspot tilt="0" distance="2.58909" url="{node14}" description="" target="$fwd" title="Supermercado Confiança" skinid="ht_node" pan="2.08093" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" type="crossdissolve" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="40" zoomout="0" delay="none" zoomin="0" enabled="1" zoomafterinfov="140"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" simulatemass="1" dblclickfullscreen="0" contextprojections="0" hideabout="0" speedwheel="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" contextfullscreen="1" rubberband="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node22">
+    <input levelbiashidpi="1.000" overlap="1" levelbias="0.400" levelingpitch="0" leveltilesize="510" levelingroll="0" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3000" width="3000">
+      <level height="3000" predecode="0" width="3000" preload="0"/>
+      <level height="1500" predecode="0" width="1500" preload="0"/>
+      <level height="750" predecode="0" width="750" preload="0"/>
+      <level height="375" predecode="1" width="375" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="95.4914" fovmode="2">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata comment="" heading="95.4914" streetviewlink="https://www.google.com/maps/@-24.2469393,-51.6733113,3a,75y,95.49h,90t/data=!3m4!1e1!3m2!1sCIABIhCTwTmLSR2beqYJ8y-XMTzw!2e10" copyright="MG TOUR 360 GRAUS" description="" info="" nodeid="node22" customnodeid="" datetime="" title="Supermercado Confiança" tags="editadas" latitude="-24.24693930" longitude="-51.67331128" author="RIBEIRO" source=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label borderradius="1" border="1" textcolor="0x000000" textalpha="1" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" borderalpha="1" background="1" height="20" bordercolor="0x000000" enabled="1" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-3.43" distance="1.62915" url="{node21}" description="" target="92.0/0.0/100.0" title="Supermercado Confiança" skinid="ht_node" pan="-266.32" id="Point01"/>
+      <hotspot tilt="0" distance="2.47047" url="{node13}" description="" target="$fwd" title="Supermercado Confiança" skinid="ht_node" pan="-5.98372" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" type="crossdissolve" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="40" zoomout="0" delay="none" zoomin="0" enabled="1" zoomafterinfov="140"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" simulatemass="1" dblclickfullscreen="0" contextprojections="0" hideabout="0" speedwheel="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" contextfullscreen="1" rubberband="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node23">
+    <input levelbiashidpi="1.000" overlap="1" levelbias="0.400" levelingpitch="0" leveltilesize="510" levelingroll="0" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3000" width="3000">
+      <level height="3000" predecode="0" width="3000" preload="0"/>
+      <level height="1500" predecode="0" width="1500" preload="0"/>
+      <level height="750" predecode="0" width="750" preload="0"/>
+      <level height="375" predecode="1" width="375" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="106.192" fovmode="2">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata comment="" heading="106.192" streetviewlink="https://www.google.com/maps/@-24.2470396,-51.6731342,3a,75y,106.19h,90t/data=!3m4!1e1!3m2!1sCIABIhBtkl-wersictgoqF21UaIw!2e10" copyright="MG TOUR 360 GRAUS" description="" info="" nodeid="node23" customnodeid="" datetime="" title="Supermercado Confiança" tags="editadas" latitude="-24.24703960" longitude="-51.67313416" author="RIBEIRO" source=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label borderradius="1" border="1" textcolor="0x000000" textalpha="1" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" borderalpha="1" background="1" height="20" bordercolor="0x000000" enabled="1" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-0.13" distance="3.47852" url="{node24}" description="" target="66.0/0.0/100.0" title="Supermercado Confiança" skinid="ht_node" pan="-298.63" id="Point01"/>
+      <hotspot tilt="0.19" distance="2.89421" url="{node4}" description="" target="179.0/0.0/108.2" title="Supermercado Confiança" skinid="ht_node" pan="-194.62" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" type="crossdissolve" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="40" zoomout="0" delay="none" zoomin="0" enabled="1" zoomafterinfov="140"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" simulatemass="1" dblclickfullscreen="0" contextprojections="0" hideabout="0" speedwheel="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" contextfullscreen="1" rubberband="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node24">
+    <input levelbiashidpi="1.000" overlap="1" levelbias="0.400" levelingpitch="0" leveltilesize="510" levelingroll="0" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3000" width="3000">
+      <level height="3000" predecode="0" width="3000" preload="0"/>
+      <level height="1500" predecode="0" width="1500" preload="0"/>
+      <level height="750" predecode="0" width="750" preload="0"/>
+      <level height="375" predecode="1" width="375" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="105.577" fovmode="2">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata comment="" heading="105.577" streetviewlink="https://www.google.com/maps/@-24.2470184,-51.6731089,3a,75y,105.58h,90t/data=!3m4!1e1!3m2!1sCIABIhAlsr320uF2PjwvQ26AgAXU!2e10" copyright="MG TOUR 360 GRAUS" description="" info="" nodeid="node24" customnodeid="" datetime="" title="Supermercado Confiança" tags="editadas" latitude="-24.24701842" longitude="-51.67310891" author="RIBEIRO" source=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label borderradius="1" border="1" textcolor="0x000000" textalpha="1" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" borderalpha="1" background="1" height="20" bordercolor="0x000000" enabled="1" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="0.24" distance="3.34899" url="{node25}" description="" target="37.0/0.0/117.4" title="Supermercado Confiança" skinid="ht_node" pan="-329.63" id="Point01"/>
+      <hotspot tilt="0" distance="3.47852" url="{node23}" description="" target="-101.0/0.0/100.0" title="Supermercado Confiança" skinid="ht_node" pan="-95.45" id="Point02"/>
+      <hotspot tilt="0" distance="4.72496" url="{node5}" description="" target="$fwd" title="Supermercado Confiança" skinid="ht_node" pan="185.466" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" type="crossdissolve" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="40" zoomout="0" delay="none" zoomin="0" enabled="1" zoomafterinfov="140"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" simulatemass="1" dblclickfullscreen="0" contextprojections="0" hideabout="0" speedwheel="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" contextfullscreen="1" rubberband="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node25">
+    <input levelbiashidpi="1.000" overlap="1" levelbias="0.400" levelingpitch="0" leveltilesize="510" levelingroll="0" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3000" width="3000">
+      <level height="3000" predecode="0" width="3000" preload="0"/>
+      <level height="1500" predecode="0" width="1500" preload="0"/>
+      <level height="750" predecode="0" width="750" preload="0"/>
+      <level height="375" predecode="1" width="375" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="103.417" fovmode="2">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata comment="" heading="103.417" streetviewlink="https://www.google.com/maps/@-24.2469998,-51.673083,3a,75y,103.42h,90t/data=!3m4!1e1!3m2!1sCIABIhDgJ8JapTb_El7ogIF7xShs!2e10" copyright="MG TOUR 360 GRAUS" description="" info="" nodeid="node25" customnodeid="" datetime="" title="Supermercado Confiança" tags="editadas" latitude="-24.24699975" longitude="-51.67308299" author="RIBEIRO" source=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label borderradius="1" border="1" textcolor="0x000000" textalpha="1" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" borderalpha="1" background="1" height="20" bordercolor="0x000000" enabled="1" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="0.13" distance="3.34899" url="{node24}" description="" target="-115.0/0.0/136.9" title="Supermercado Confiança" skinid="ht_node" pan="-156.42" id="Point01"/>
+      <hotspot tilt="0.58" distance="2.13383" url="{node26}" description="" target="136.0/0.0/108.2" title="Supermercado Confiança" skinid="ht_node" pan="-238.29" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" type="crossdissolve" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="40" zoomout="0" delay="none" zoomin="0" enabled="1" zoomafterinfov="140"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" simulatemass="1" dblclickfullscreen="0" contextprojections="0" hideabout="0" speedwheel="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" contextfullscreen="1" rubberband="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node26">
+    <input levelbiashidpi="1.000" overlap="1" levelbias="0.400" levelingpitch="0" leveltilesize="510" levelingroll="0" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3000" width="3000">
+      <level height="3000" predecode="0" width="3000" preload="0"/>
+      <level height="1500" predecode="0" width="1500" preload="0"/>
+      <level height="750" predecode="0" width="750" preload="0"/>
+      <level height="375" predecode="1" width="375" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="108.76" fovmode="2">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata comment="" heading="108.76" streetviewlink="https://www.google.com/maps/@-24.2469806,-51.673083,3a,75y,108.76h,90t/data=!3m4!1e1!3m2!1sCIABIhB9pLZhviu50K4H5ggJjgMr!2e10" copyright="MG TOUR 360 GRAUS" description="" info="" nodeid="node26" customnodeid="" datetime="" title="Supermercado Confiança" tags="editadas" latitude="-24.24698056" longitude="-51.67308302" author="RIBEIRO" source=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label borderradius="1" border="1" textcolor="0x000000" textalpha="1" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" borderalpha="1" background="1" height="20" bordercolor="0x000000" enabled="1" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="0.26" distance="2.13383" url="{node25}" description="" target="-46.0/0.0/100.0" title="Supermercado Confiança" skinid="ht_node" pan="-41.32" id="Point01"/>
+      <hotspot tilt="0.45" distance="1.81912" url="{node27}" description="" target="90.0/0.0/100.0" title="Supermercado Confiança" skinid="ht_node" pan="-282.95" id="Point02"/>
+      <hotspot tilt="0" distance="6.44902" url="{node11}" description="" target="$fwd" title="Supermercado Confiança" skinid="ht_node" pan="190.382" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" type="crossdissolve" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="40" zoomout="0" delay="none" zoomin="0" enabled="1" zoomafterinfov="140"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" simulatemass="1" dblclickfullscreen="0" contextprojections="0" hideabout="0" speedwheel="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" contextfullscreen="1" rubberband="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node27">
+    <input levelbiashidpi="1.000" overlap="1" levelbias="0.400" levelingpitch="0" leveltilesize="510" levelingroll="0" leveltileurl="tiles/node27/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3000" width="3000">
+      <level height="3000" predecode="0" width="3000" preload="0"/>
+      <level height="1500" predecode="0" width="1500" preload="0"/>
+      <level height="750" predecode="0" width="750" preload="0"/>
+      <level height="375" predecode="1" width="375" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="104.14" fovmode="2">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata comment="" heading="104.14" streetviewlink="https://www.google.com/maps/@-24.2469646,-51.6730793,3a,75y,104.14h,90t/data=!3m4!1e1!3m2!1sCIABIhCdvYVbe2hrnnq_nBGMtq-w!2e10" copyright="MG TOUR 360 GRAUS" description="" info="" nodeid="node27" customnodeid="" datetime="" title="Supermercado Confiança" tags="editadas" latitude="-24.24696455" longitude="-51.67307933" author="RIBEIRO" source=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label borderradius="1" border="1" textcolor="0x000000" textalpha="1" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" borderalpha="1" background="1" height="20" bordercolor="0x000000" enabled="1" width="180"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="0.49" distance="1.81912" url="{node26}" description="" target="-86.0/0.0/100.0" title="Supermercado Confiança" skinid="ht_node" pan="-99.07" id="Point01"/>
+      <hotspot tilt="0" distance="6.13121" url="{node16}" description="" target="$fwd" title="Supermercado Confiança" skinid="ht_node" pan="185.577" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" zoomoutpause="1" type="crossdissolve" blendtime="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafteroutfov="40" zoomout="0" delay="none" zoomin="0" enabled="1" zoomafterinfov="140"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control invertcontrol="1" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" lockedwheel="0" simulatemass="1" dblclickfullscreen="0" contextprojections="0" hideabout="0" speedwheel="1" lockedkeyboard="0" lockedmouse="0" invertwheel="0" contextfullscreen="1" rubberband="0" sensitivity="8"/>
+  </panorama>
+  <masternode>
+    <userdata comment="" title="Supermercado Confinaça" copyright="" tags="" description="Tour Virtual 360 Graus" author="MG TOUR 360 GRAUS "/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
